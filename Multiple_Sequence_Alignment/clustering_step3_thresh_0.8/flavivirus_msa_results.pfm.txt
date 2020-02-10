@@ -1,0 +1,452 @@
+Resid   0 Consensus residue: Q Observed residues:  -    2   A   95   H    1   Q 1352   R    1   V   20   
+Resid   1 Consensus residue: X Observed residues:  -    2   A  380   E  115   G  465   S    3   T  499   
+Resid   2 Consensus residue: X Observed residues:  -    2   D   75   E  668   G    5   K  433   N  211   R   75   S    3   
+Resid   3 Consensus residue: X Observed residues:  -    2   A  504   E    1   K  296   N    1   R  532   S  113   T   12   V    8   
+Resid   4 Consensus residue: X Observed residues:  -    2   E  329   G    6   I   68   M  234   N   10   Q   83   R  116   S  583   T   32   V    6   
+Resid   5 Consensus residue: X Observed residues:  -    2   D  201   E  263   G   71   I  284   K    1   L    2   M    1   P  326   Q  305   S    2   T    2   V    9   Y    1   
+Resid   6 Consensus residue: E Observed residues:  -    2   D  219   E 1146   G    1   N   98   Q    1   S    3   
+Resid   7 Consensus residue: X Observed residues:  -    2   A   29   D  290   E    1   F    1   I  210   L    2   N    5   P  788   S    3   T    3   V  136   
+Resid   8 Consensus residue: X Observed residues:  -    2   A    2   D   72   I    3   L  319   N  296   P  430   Q   52   T  211   V   83   
+Resid   9 Consensus residue: X Observed residues:  -    2   A  324   D   52   E  178   L    2   P  812   S   14   T    3   V    7   Y   72   
+Resid  10 Consensus residue: X Observed residues:  -    2   A  145   C   83   D   12   E  877   G  229   I    3   V  118   
+Resid  11 Consensus residue: X Observed residues:  -    2   F  317   I  635   L  215   Q   15   S    6   T   12   V  122   Y  147   
+Resid  12 Consensus residue: E Observed residues:  -    2   A    1   D   77   E 1130   G  116   N   67   T   79   
+Resid  13 Consensus residue: X Observed residues:  -    2   A   35   D  592   E  313   G    7   I    1   M    2   N    5   P  407   S    4   T  104   V    2   
+Resid  14 Consensus residue: X Observed residues:  -    2   A    1   D  409   E  775   G  110   H    1   K    3   N   54   R    4   S  112   T    3   
+Resid  15 Consensus residue: X Observed residues:  -    2   A    1   F    1   I  365   M  682   R    1   T    1   V  307   W  115   
+Resid  16 Consensus residue: X Observed residues:  -    2   A    1   F  887   L  468   M   10   T  104   V    1   
+Resid  17 Consensus residue: X Observed residues:  -    2   A   75   G    1   K  419   R  940   S   40   
+Resid  18 Consensus residue: K Observed residues:  -    2   K 1482   R    1   
+Resid  19 Consensus residue: X Observed residues:  -    2   G  115   K  611   R  757   
+Resid  20 Consensus residue: X Observed residues:  -    3   K   36   N  519   Q  562   R  361   S    6   
+Resid  21 Consensus residue: L Observed residues:  -    2   I  345   L 1059   M   78   T    1   V    2   
+Resid  22 Consensus residue: T Observed residues:  A    1   I    2   S    5   T 1479   
+Resid  23 Consensus residue: X Observed residues:  A    1   I  882   L    1   M    1   T    2   V  600   
+Resid  24 Consensus residue: X Observed residues:  L  596   M  891   
+Resid  25 Consensus residue: D Observed residues:  D 1462   E   24   V    1   
+Resid  26 Consensus residue: L Observed residues:  F    3   L 1369   M  115   
+Resid  27 Consensus residue: H Observed residues:  H 1485   P    1   Q    1   Y    1   
+Resid  28 Consensus residue: P Observed residues:  A    1   P 1487   
+Resid  29 Consensus residue: G Observed residues:  G 1488   
+Resid  30 Consensus residue: X Observed residues:  A  765   S  723   
+Resid  31 Consensus residue: G Observed residues:  G 1488   
+Resid  32 Consensus residue: K Observed residues:  K 1488   
+Resid  33 Consensus residue: T Observed residues:  K    1   P    1   T 1486   
+Resid  34 Consensus residue: X Observed residues:  H  115   K  372   R 1001   
+Resid  35 Consensus residue: R Observed residues:  K  365   R 1123   
+Resid  36 Consensus residue: X Observed residues:  D    1   I  429   S    1   T    1   V  239   Y  817   
+Resid  37 Consensus residue: L Observed residues:  L 1488   
+Resid  38 Consensus residue: P Observed residues:  P 1488   
+Resid  39 Consensus residue: X Observed residues:  A  814   E  215   Q  382   S   73   T    3   V    1   
+Resid  40 Consensus residue: I Observed residues:  I 1368   L  116   M    2   T    1   V    1   
+Resid  41 Consensus residue: X Observed residues:  I  498   L    2   T    1   V  987   
+Resid  42 Consensus residue: R Observed residues:  H    1   K  370   R 1116   
+Resid  43 Consensus residue: E Observed residues:  A    1   D  147   E 1229   G    2   Q  109   
+Resid  44 Consensus residue: A Observed residues:  A 1346   C  138   P    1   S    3   
+Resid  45 Consensus residue: I Observed residues:  A    9   I 1389   L   72   M    7   T    8   V    3   
+Resid  46 Consensus residue: X Observed residues:  A    1   D  105   E    2   K  973   N  244   Q  146   R   14   S    1   T    2   
+Resid  47 Consensus residue: R Observed residues:  A    4   K   79   Q   83   R 1240   T   82   
+Resid  48 Consensus residue: X Observed residues:  G  306   H    1   K  294   N    2   R  883   
+Resid  49 Consensus residue: L Observed residues:  L 1464   M   22   V    2   
+Resid  50 Consensus residue: R Observed residues:  K    2   R 1485   S    1   
+Resid  51 Consensus residue: T Observed residues:  P    1   T 1487   
+Resid  52 Consensus residue: X Observed residues:  A  380   L 1000   V  107   
+Resid  53 Consensus residue: X Observed residues:  I  969   V  519   
+Resid  54 Consensus residue: L Observed residues:  L 1488   
+Resid  55 Consensus residue: A Observed residues:  A 1487   D    1   
+Resid  56 Consensus residue: P Observed residues:  P 1488   
+Resid  57 Consensus residue: T Observed residues:  P    1   T 1487   
+Resid  58 Consensus residue: R Observed residues:  K    1   P    1   R 1486   
+Resid  59 Consensus residue: V Observed residues:  A    1   V 1486   
+Resid  60 Consensus residue: V Observed residues:  E    1   G    1   V 1485   
+Resid  61 Consensus residue: A Observed residues:  A 1370   L  115   P    1   R    1   T    1   
+Resid  62 Consensus residue: X Observed residues:  A 1038   C   24   K  113   R    2   S  310   V    1   
+Resid  63 Consensus residue: E Observed residues:  E 1486   K    1   Y    1   
+Resid  64 Consensus residue: M Observed residues:  I   24   M 1462   S    1   T    1   
+Resid  65 Consensus residue: X Observed residues:  A  669   E  799   F    1   R    1   S   18   
+Resid  66 Consensus residue: E Observed residues:  D    2   E 1364   K   11   R  105   W    1   
+Resid  67 Consensus residue: A Observed residues:  A 1480   D    1   P    1   S    1   V    5   
+Resid  68 Consensus residue: L Observed residues:  L 1487   M    1   
+Resid  69 Consensus residue: X Observed residues:  A    9   G    1   I    1   K  584   N   89   Q    6   R  786   S   10   T    1   W    1   
+Resid  70 Consensus residue: G Observed residues:  E    1   G 1486   P    1   
+Resid  71 Consensus residue: L Observed residues:  F    1   I    7   K  115   L 1063   M  297   S    1   V    4   
+Resid  72 Consensus residue: P Observed residues:  A    1   K    9   N    2   P 1367   R  104   S    1   V    1   
+Resid  73 Consensus residue: I Observed residues:  A    1   I 1147   V  340   
+Resid  74 Consensus residue: R Observed residues:  K    9   M    1   R 1478   
+Resid  75 Consensus residue: Y Observed residues:  F  114   H    1   N    1   T    1   Y 1371   
+Resid  76 Consensus residue: Q Observed residues:  H  117   L   65   M   99   Q 1205   
+Resid  77 Consensus residue: T Observed residues:  E    1   S  115   T 1370   
+Resid  78 Consensus residue: X Observed residues:  A    6   P  535   S  321   T  626   
+Resid  79 Consensus residue: A Observed residues:  A 1483   D    1   V    3   
+Resid  80 Consensus residue: X Observed residues:  A    2   I  303   S    1   T  210   V  971   
+Resid  81 Consensus residue: X Observed residues:  A   14   D    6   E   10   G   53   H   18   K  663   L    2   N  132   P  182   Q   90   R  247   S   47   T   18   
+Resid  82 Consensus residue: X Observed residues:  A  266   D   95   E    5   G   12   N   28   P    1   R  358   S  586   T   35   V  100   
+Resid  83 Consensus residue: E Observed residues:  A    4   D    2   E 1261   H    3   Q  107   S    7   T   99   V    4   
+Resid  84 Consensus residue: H Observed residues:  H 1370   Q   98   S   15   T    1   Y    3   
+Resid  85 Consensus residue: X Observed residues:  A   24   C    1   G    1   M    3   N  204   Q  107   S  169   T  904   V   71   
+Resid  86 Consensus residue: G Observed residues:  A    9   G 1469   L    2   N    2   S    4   
+Resid  87 Consensus residue: X Observed residues:  G  114   K  237   N  346   R  653   S    2   T  131   Y    1   
+Resid  88 Consensus residue: E Observed residues:  A  105   D    1   E 1368   S   11   
+Resid  89 Consensus residue: I Observed residues:  I 1477   V    9   
+Resid  90 Consensus residue: V Observed residues:  A    2   I    7   V 1476   
+Resid  91 Consensus residue: D Observed residues:  A    1   D 1482   E    1   N    1   V    1   
+Resid  92 Consensus residue: X Observed residues:  C    1   I    1   L  988   V  495   
+Resid  93 Consensus residue: M Observed residues:  I    1   M 1485   
+Resid  94 Consensus residue: C Observed residues:  C 1484   G    1   R    1   
+Resid  95 Consensus residue: H Observed residues:  H 1484   R    1   
+Resid  96 Consensus residue: A Observed residues:  A 1483   P    2   T    2   
+Resid  97 Consensus residue: T Observed residues:  -    1   N    1   P    2   T 1483   
+Resid  98 Consensus residue: X Observed residues:  F  988   L  383   S    1   Y  115   
+Resid  99 Consensus residue: T Observed residues:  I    1   T 1371   V  115   
+Resid 100 Consensus residue: X Observed residues:  A    3   H  367   I    3   M  815   N  105   Q   24   S  100   T   70   
+Resid 101 Consensus residue: R Observed residues:  G    2   K   25   N    1   R 1458   
+Resid 102 Consensus residue: L Observed residues:  L 1370   P    2   R  115   
+Resid 103 Consensus residue: L Observed residues:  L 1130   M  356   T    1   
+Resid 104 Consensus residue: S Observed residues:  A    1   L  116   Q   99   S 1247   T   24   
+Resid 105 Consensus residue: P Observed residues:  L    2   P 1410   S   75   
+Resid 106 Consensus residue: X Observed residues:  A    1   G    2   H  235   I  174   L   38   N   83   Q  115   T   98   V  741   
+Resid 107 Consensus residue: R Observed residues:  G  115   K    1   R 1371   
+Resid 108 Consensus residue: V Observed residues:  A    1   G    1   I    1   K    2   R  113   V 1369   
+Resid 109 Consensus residue: P Observed residues:  P 1369   Q  116   S    2   
+Resid 110 Consensus residue: N Observed residues:  H    3   N 1482   S    1   T    1   
+Resid 111 Consensus residue: Y Observed residues:  D    1   W  115   Y 1367   
+Resid 112 Consensus residue: N Observed residues:  E  115   N 1347   Q   24   
+Resid 113 Consensus residue: L Observed residues:  L 1042   M  306   V  139   
+Resid 114 Consensus residue: X Observed residues:  A  115   F  357   I  878   N    5   T    1   V   11   Y  120   
+Resid 115 Consensus residue: I Observed residues:  I 1064   T    1   V  423   
+Resid 116 Consensus residue: M Observed residues:  I    1   M 1485   T    1   V    1   
+Resid 117 Consensus residue: D Observed residues:  D 1488   
+Resid 118 Consensus residue: E Observed residues:  E 1488   
+Resid 119 Consensus residue: A Observed residues:  A 1488   
+Resid 120 Consensus residue: H Observed residues:  H 1488   
+Resid 121 Consensus residue: F Observed residues:  F 1372   L    1   W  115   
+Resid 122 Consensus residue: T Observed residues:  I   25   Q    1   S    1   T 1461   
+Resid 123 Consensus residue: D Observed residues:  D 1487   V    1   
+Resid 124 Consensus residue: P Observed residues:  L    1   P 1487   
+Resid 125 Consensus residue: X Observed residues:  A 1023   C   10   F    1   H  113   S  337   Y    3   
+Resid 126 Consensus residue: S Observed residues:  G    1   I    1   N    2   R    2   S 1482   
+Resid 127 Consensus residue: I Observed residues:  I 1412   L    1   T    1   V   71   
+Resid 128 Consensus residue: A Observed residues:  A 1484   G    1   P    1   
+Resid 129 Consensus residue: A Observed residues:  A 1483   G    1   R    1   
+Resid 130 Consensus residue: R Observed residues:  G    1   I    1   R 1484   
+Resid 131 Consensus residue: G Observed residues:  G 1484   V    1   
+Resid 132 Consensus residue: Y Observed residues:  C    1   H  115   Y 1369   
+Resid 133 Consensus residue: I Observed residues:  F    1   I 1369   L  115   
+Resid 134 Consensus residue: S Observed residues:  A  142   F    1   S 1226   Y  114   
+Resid 135 Consensus residue: T Observed residues:  S   18   T 1467   
+Resid 136 Consensus residue: X Observed residues:  K  343   L  115   P    1   R 1026   
+Resid 137 Consensus residue: V Observed residues:  A  116   V 1369   
+Resid 138 Consensus residue: X Observed residues:  E  845   G  522   K  114   Q    1   S    1   
+Resid 139 Consensus residue: X Observed residues:  A    6   E  113   K    1   L  375   M  987   Q    1   
+Resid 140 Consensus residue: G Observed residues:  G 1367   K    1   N  114   V    1   
+Resid 141 Consensus residue: E Observed residues:  D    1   E 1367   K   97   R   19   
+Resid 142 Consensus residue: A Observed residues:  A 1362   C  115   T    7   V    1   
+Resid 143 Consensus residue: A Observed residues:  A 1482   S    1   T    1   
+Resid 144 Consensus residue: A Observed residues:  A 1072   F    4   G  297   L  111   T    1   
+Resid 145 Consensus residue: I Observed residues:  I 1362   V  123   
+Resid 146 Consensus residue: F Observed residues:  F 1366   L  117   S    1   
+Resid 147 Consensus residue: M Observed residues:  K    1   M 1484   
+Resid 148 Consensus residue: T Observed residues:  A    1   S    2   T 1482   
+Resid 149 Consensus residue: A Observed residues:  A 1483   D    1   G    1   V    1   
+Resid 150 Consensus residue: T Observed residues:  P    1   T 1485   
+Resid 151 Consensus residue: P Observed residues:  P 1484   R    1   S    1   
+Resid 152 Consensus residue: P Observed residues:  P 1482   R    1   S    2   T    1   
+Resid 153 Consensus residue: G Observed residues:  E    1   G 1485   
+Resid 154 Consensus residue: X Observed residues:  A   24   I    2   K  106   N    2   Q    1   R    8   S  614   T  728   
+Resid 155 Consensus residue: X Observed residues:  A  218   G   10   H   35   I    9   K    6   M   20   N   23   R  392   S  342   T  148   V  280   Y    1   
+Resid 156 Consensus residue: X Observed residues:  D  994   E  492   
+Resid 157 Consensus residue: X Observed residues:  A  623   G    1   P  856   S    3   T    2   V    1   
+Resid 158 Consensus residue: F Observed residues:  F 1485   S    2   
+Resid 159 Consensus residue: P Observed residues:  L    1   P 1483   S    1   
+Resid 160 Consensus residue: X Observed residues:  D  246   E  348   K    1   L    1   Q  890   V    1   
+Resid 161 Consensus residue: S Observed residues:  C    1   I    1   S 1443   T   39   
+Resid 162 Consensus residue: N Observed residues:  D    1   H    1   I    1   K    7   N 1475   T    1   
+Resid 163 Consensus residue: X Observed residues:  A  971   G  114   P    1   R    1   S  396   T    1   V    1   
+Resid 164 Consensus residue: P Observed residues:  A  125   E    1   G    1   I    5   L    2   P 1063   V  289   
+Resid 165 Consensus residue: I Observed residues:  I 1443   V   43   
+Resid 166 Consensus residue: X Observed residues:  A   10   E   72   F    3   H   89   I  104   K    1   L   26   M  293   Q  520   S  249   T  106   V   12   Y    1   
+Resid 167 Consensus residue: D Observed residues:  D 1369   G    1   N    1   S  115   
+Resid 168 Consensus residue: X Observed residues:  D    1   E  932   I  114   K    1   L  283   M   26   S    1   T   98   V   28   W    1   
+Resid 169 Consensus residue: E Observed residues:  D    1   E 1127   P    2   Q  350   S    6   V    1   
+Resid 170 Consensus residue: X Observed residues:  -    2   A   55   D   81   G    1   I    1   K  100   N    1   R  905   S    7   T  233   V  101   
+Resid 171 Consensus residue: X Observed residues:  -    2   A    8   D  522   E  822   G    2   P    6   Q  124   
+Resid 172 Consensus residue: I Observed residues:  -    2   I 1328   S    1   T    1   V  153   
+Resid 173 Consensus residue: P Observed residues:  -    2   L    1   P 1483   S    1   
+Resid 174 Consensus residue: X Observed residues:  D  470   E 1012   G    1   N    1   
+Resid 175 Consensus residue: R Observed residues:  G  117   K   24   R 1345   W    1   
+Resid 176 Consensus residue: X Observed residues:  A  477   E  115   P    2   S  892   T    1   
+Resid 177 Consensus residue: W Observed residues:  G    1   R    1   W 1484   
+Resid 178 Consensus residue: N Observed residues:  N 1114   R  115   S  258   
+Resid 179 Consensus residue: S Observed residues:  A    1   D  106   E    9   F    1   L    6   N    2   P    1   R    2   S 1236   T  122   
+Resid 180 Consensus residue: G Observed residues:  G 1487   
+Resid 181 Consensus residue: X Observed residues:  D    1   F  325   H  301   N  216   Y  643   
+Resid 182 Consensus residue: E Observed residues:  D  432   E 1047   G    2   N    1   Q    2   
+Resid 183 Consensus residue: W Observed residues:  W 1484   
+Resid 184 Consensus residue: I Observed residues:  I 1104   S    1   T    1   V  380   
+Resid 185 Consensus residue: T Observed residues:  A    1   I    1   M    3   T 1482   
+Resid 186 Consensus residue: X Observed residues:  D 1005   E  443   G    4   N   30   S    6   
+Resid 187 Consensus residue: X Observed residues:  C    1   F  848   H   97   L    1   Y  540   
+Resid 188 Consensus residue: X Observed residues:  A  207   D    1   E  118   F    2   H    1   I   32   K  289   L    1   N    1   P  299   Q   74   R    1   S  106   T  235   V  112   
+Resid 189 Consensus residue: G Observed residues:  G 1486   V    1   
+Resid 190 Consensus residue: K Observed residues:  E    2   K 1342   R  144   
+Resid 191 Consensus residue: T Observed residues:  K    2   S    1   T 1485   
+Resid 192 Consensus residue: V Observed residues:  A  115   I    7   V 1366   
+Resid 193 Consensus residue: W Observed residues:  W 1488   
+Resid 194 Consensus residue: F Observed residues:  F 1488   
+Resid 195 Consensus residue: V Observed residues:  G    1   V 1487   
+Resid 196 Consensus residue: P Observed residues:  A  123   P 1359   S    4   
+Resid 197 Consensus residue: S Observed residues:  G    1   R    1   S 1485   T    1   
+Resid 198 Consensus residue: X Observed residues:  I 1005   T    1   V  482   
+Resid 199 Consensus residue: K Observed residues:  A  100   K 1252   M    1   R  116   S    9   T    1   V    6   
+Resid 200 Consensus residue: X Observed residues:  A  612   I    2   K  113   L    1   M  354   N   97   R    2   S  283   T   19   V    1   
+Resid 201 Consensus residue: G Observed residues:  G 1483   S    3   
+Resid 202 Consensus residue: N Observed residues:  E    2   G  115   N 1369   S    1   
+Resid 203 Consensus residue: X Observed residues:  A   35   D  889   E  480   G    2   I   42   T    6   V   33   
+Resid 204 Consensus residue: I Observed residues:  I 1479   M    4   N    1   S    2   V    1   
+Resid 205 Consensus residue: A Observed residues:  A 1480   R    1   T    5   V    1   
+Resid 206 Consensus residue: X Observed residues:  A  394   I   21   L  231   M   80   N  593   Q   44   R  115   T    3   V    6   
+Resid 207 Consensus residue: C Observed residues:  A    7   C 1370   R    1   T  108   V    1   
+Resid 208 Consensus residue: L Observed residues:  I    1   L 1486   
+Resid 209 Consensus residue: X Observed residues:  E    1   K    3   Q  382   R 1001   S    1   T   99   
+Resid 210 Consensus residue: X Observed residues:  C    2   K 1013   Q  115   R  357   
+Resid 211 Consensus residue: X Observed residues:  A  479   K  104   N  816   R   11   S   74   T    3   
+Resid 212 Consensus residue: G Observed residues:  E    3   G 1482   R    1   
+Resid 213 Consensus residue: K Observed residues:  E    1   K 1485   R    1   
+Resid 214 Consensus residue: X Observed residues:  K  875   M    1   P    1   R  495   S  114   T    2   
+Resid 215 Consensus residue: V Observed residues:  F    1   I    1   V 1486   
+Resid 216 Consensus residue: I Observed residues:  I 1267   N    1   V  218   
+Resid 217 Consensus residue: Q Observed residues:  C  115   P    1   Q 1372   
+Resid 218 Consensus residue: L Observed residues:  L 1487   Y    1   
+Resid 219 Consensus residue: X Observed residues:  N  496   S  991   
+Resid 220 Consensus residue: R Observed residues:  R 1373   S  115   
+Resid 221 Consensus residue: K Observed residues:  E    1   K 1482   N    1   Q    1   R    2   
+Resid 222 Consensus residue: T Observed residues:  C    2   S  381   T 1105   
+Resid 223 Consensus residue: F Observed residues:  F 1127   I    1   S    1   Y  358   
+Resid 224 Consensus residue: X Observed residues:  D 1028   E  448   G    2   N    2   
+Resid 225 Consensus residue: T Observed residues:  A    1   F    6   K  115   R    1   S  279   T 1086   
+Resid 226 Consensus residue: E Observed residues:  D  113   E 1375   
+Resid 227 Consensus residue: Y Observed residues:  F  100   H    2   Y 1385   
+Resid 228 Consensus residue: X Observed residues:  A    7   G    6   I   67   K    1   L   11   P  453   Q  620   S   77   T   28   V  218   
+Resid 229 Consensus residue: K Observed residues:  E    1   K 1369   N    1   R  117   
+Resid 230 Consensus residue: X Observed residues:  C  357   K    2   M    2   S    2   T 1012   V  113   
+Resid 231 Consensus residue: X Observed residues:  H    3   K 1012   R  467   
+Resid 232 Consensus residue: X Observed residues:  A   77   D   95   E   19   G    1   H   83   I    3   L  288   N  699   S    5   T  216   Y    1   
+Resid 233 Consensus residue: X Observed residues:  D  232   E  115   G  123   I    1   M    1   N  824   Q  100   S   13   T   71   Y    1   
+Resid 234 Consensus residue: D Observed residues:  A    1   D 1245   E  126   G    1   K  115   
+Resid 235 Consensus residue: W Observed residues:  A    1   G    1   P  114   R    1   W 1371   
+Resid 236 Consensus residue: D Observed residues:  D 1485   E    1   G    2   
+Resid 237 Consensus residue: F Observed residues:  F 1183   Y  305   
+Resid 238 Consensus residue: V Observed residues:  L    1   V 1487   
+Resid 239 Consensus residue: V Observed residues:  D    1   G    2   I  355   L    1   V 1129   
+Resid 240 Consensus residue: T Observed residues:  A    1   T 1487   
+Resid 241 Consensus residue: T Observed residues:  A    1   T 1487   
+Resid 242 Consensus residue: D Observed residues:  D 1488   
+Resid 243 Consensus residue: I Observed residues:  I 1487   M    1   
+Resid 244 Consensus residue: S Observed residues:  F    2   S 1486   
+Resid 245 Consensus residue: E Observed residues:  E 1486   Q    1   V    1   
+Resid 246 Consensus residue: M Observed residues:  M 1484   V    3   
+Resid 247 Consensus residue: G Observed residues:  G 1486   L    1   
+Resid 248 Consensus residue: A Observed residues:  A 1486   P    1   T    1   
+Resid 249 Consensus residue: N Observed residues:  N 1487   Y    1   
+Resid 250 Consensus residue: F Observed residues:  F 1371   L  116   S    1   
+Resid 251 Consensus residue: X Observed residues:  D  115   G  147   I    1   K  826   P    1   R  397   
+Resid 252 Consensus residue: A Observed residues:  A 1369   T    3   V  116   
+Resid 253 Consensus residue: X Observed residues:  A    3   D  619   E  294   G   71   H   25   N   16   Q    2   R    2   S  452   T    3   
+Resid 254 Consensus residue: R Observed residues:  R 1486   T    1   
+Resid 255 Consensus residue: V Observed residues:  G    1   I    1   V 1485   
+Resid 256 Consensus residue: I Observed residues:  I 1484   M    2   V    1   
+Resid 257 Consensus residue: D Observed residues:  D 1486   Y    1   
+Resid 258 Consensus residue: X Observed residues:  C  123   G  115   L    1   P  890   S  358   
+Resid 259 Consensus residue: R Observed residues:  R 1487   
+Resid 260 Consensus residue: X Observed residues:  G    1   K  382   R  988   T  115   
+Resid 261 Consensus residue: X Observed residues:  C 1013   N  115   S  358   
+Resid 262 Consensus residue: X Observed residues:  A    1   I  115   L  691   M  296   S    1   V  382   
+Resid 263 Consensus residue: K Observed residues:  E    2   I    1   K 1480   N    2   R    1   
+Resid 264 Consensus residue: P Observed residues:  P 1486   
+Resid 265 Consensus residue: V Observed residues:  -  115   A    2   G    1   I    5   T  353   V 1010   
+Resid 266 Consensus residue: I Observed residues:  -  115   I 1369   S    1   
+Resid 267 Consensus residue: L Observed residues:  -  115   I  240   L 1122   M    2   P    3   S    2   V    1   
+Resid 268 Consensus residue: X Observed residues:  -  100   A    3   D    5   E  277   K  305   P    3   Q    2   R    2   S    1   T  790   
+Resid 269 Consensus residue: X Observed residues:  D 1005   E  472   G    3   H    1   K    1   N    3   
+Resid 270 Consensus residue: G Observed residues:  -   24   A    1   D    1   E    1   G 1340   I    6   R    1   S    2   V  109   
+Resid 271 Consensus residue: X Observed residues:  -  100   D  164   E  630   P  588   Q    1   S    5   
+Resid 272 Consensus residue: X Observed residues:  A    1   D   24   E  987   G  468   N    2   S    1   
+Resid 273 Consensus residue: R Observed residues:  G    1   K   39   R 1442   
+Resid 274 Consensus residue: V Observed residues:  I    2   V 1481   
+Resid 275 Consensus residue: I Observed residues:  E  115   F    1   I 1344   T    2   V   20   
+Resid 276 Consensus residue: L Observed residues:  F    3   L 1470   M    9   
+Resid 277 Consensus residue: X Observed residues:  A  989   G  316   I    6   N   25   S   42   T  105   
+Resid 278 Consensus residue: G Observed residues:  D    3   E  234   G 1123   N  116   V    7   
+Resid 279 Consensus residue: P Observed residues:  P 1368   T  114   V    1   
+Resid 280 Consensus residue: X Observed residues:  I   76   M  934   R  115   S  358   
+Resid 281 Consensus residue: P Observed residues:  A  265   K    9   P 1099   R  106   S    5   
+Resid 282 Consensus residue: V Observed residues:  A    1   I  186   M    1   V 1296   
+Resid 283 Consensus residue: T Observed residues:  A    1   P    1   S    1   T 1481   
+Resid 284 Consensus residue: X Observed residues:  A  426   H  390   P   73   S  147   T  115   V  330   Y    2   
+Resid 285 Consensus residue: A Observed residues:  A 1184   F    2   I    1   S  295   T    1   
+Resid 286 Consensus residue: S Observed residues:  I    1   N    1   S 1481   
+Resid 287 Consensus residue: A Observed residues:  A 1481   P    1   
+Resid 288 Consensus residue: A Observed residues:  A 1481   N    1   T    1   
+Resid 289 Consensus residue: Q Observed residues:  P    1   Q 1482   
+Resid 290 Consensus residue: R Observed residues:  -    1   R 1482   
+Resid 291 Consensus residue: R Observed residues:  G    1   K    1   R 1481   
+Resid 292 Consensus residue: G Observed residues:  G 1483   
+Resid 293 Consensus residue: R Observed residues:  R 1483   
+Resid 294 Consensus residue: X Observed residues:  F    1   I  961   T    1   V  520   
+Resid 295 Consensus residue: G Observed residues:  A    2   G 1481   S    1   
+Resid 296 Consensus residue: R Observed residues:  R 1484   
+Resid 297 Consensus residue: N Observed residues:  D    1   H   25   N 1355   Q   80   R    1   S   10   T   12   
+Resid 298 Consensus residue: P Observed residues:  D   20   E   79   G    7   H  161   L    4   P 1058   Q  132   S   21   Y    2   
+Resid 299 Consensus residue: X Observed residues:  A   66   E    1   G  114   H    1   K  282   L    4   N  477   P    3   Q  209   R   19   S  297   T   10   V    1   
+Resid 300 Consensus residue: X Observed residues:  K  617   N  297   Q  454   R  116   
+Resid 301 Consensus residue: X Observed residues:  A    1   D    1   E  888   G    1   I   63   P   96   T  114   V  320   
+Resid 302 Consensus residue: X Observed residues:  -  115   D   72   G  784   N  511   S    2   
+Resid 303 Consensus residue: D Observed residues:  D 1484   N    1   
+Resid 304 Consensus residue: X Observed residues:  E  587   L    3   Q  891   T    3   
+Resid 305 Consensus residue: Y Observed residues:  Y 1485   
+Resid 306 Consensus residue: X Observed residues:  C  235   H  146   I  840   L   82   M   16   V  165   Y    1   
+Resid 307 Consensus residue: Y Observed residues:  F  288   N    1   S    2   Y 1194   
+Resid 308 Consensus residue: X Observed residues:  G  479   M  615   R    1   S  187   T  203   
+Resid 309 Consensus residue: G Observed residues:  C    1   G 1483   V    1   
+Resid 310 Consensus residue: X Observed residues:  A   99   D   72   E  297   G  134   H  234   P    2   Q  636   R    1   S    3   T    4   V    2   Y    1   
+Resid 311 Consensus residue: X Observed residues:  C  212   I    1   P  891   T  381   
+Resid 312 Consensus residue: X Observed residues:  A   97   D  115   L  886   N  260   S  125   V    1   
+Resid 313 Consensus residue: X Observed residues:  D  116   E  775   I    1   K   36   N  518   R   37   S    1   T    1   
+Resid 314 Consensus residue: X Observed residues:  D  489   G    2   H    1   K    3   N  889   S    1   T   98   Y    1   
+Resid 315 Consensus residue: D Observed residues:  A    1   D 1482   G    1   N    1   
+Resid 316 Consensus residue: X Observed residues:  A    2   D    1   E  985   G   15   H   24   L    2   R    2   S  406   T   49   
+Resid 317 Consensus residue: X Observed residues:  D 1006   E    1   G  104   I   35   M    6   N  319   S   15   V    1   
+Resid 318 Consensus residue: X Observed residues:  A   33   C  307   F  213   H  695   L  233   S    2   Y    3   
+Resid 319 Consensus residue: A Observed residues:  A 1372   V  115   
+Resid 320 Consensus residue: H Observed residues:  H 1339   N   24   P    3   Q  116   R    1   Y    4   
+Resid 321 Consensus residue: W Observed residues:  E    1   W 1485   
+Resid 322 Consensus residue: X Observed residues:  I    4   K  411   L   98   R    1   T  972   
+Resid 323 Consensus residue: E Observed residues:  D    2   E 1484   Q    1   
+Resid 324 Consensus residue: A Observed residues:  A 1483   E    1   G    2   
+Resid 325 Consensus residue: X Observed residues:  H    1   K 1038   Q  114   R  333   
+Resid 326 Consensus residue: X Observed residues:  I  497   M  989   
+Resid 327 Consensus residue: L Observed residues:  F    1   L 1135   M  350   
+Resid 328 Consensus residue: L Observed residues:  L 1485   P    1   
+Resid 329 Consensus residue: D Observed residues:  A    2   D 1483   E    1   
+Resid 330 Consensus residue: N Observed residues:  D    1   H    1   N 1483   Y    1   
+Resid 331 Consensus residue: I Observed residues:  I 1482   M    1   T    2   V    1   
+Resid 332 Consensus residue: N Observed residues:  H  127   I    2   K    1   N 1049   P    1   S    1   T  115   Y  189   
+Resid 333 Consensus residue: X Observed residues:  L  166   M  315   P    1   T 1005   
+Resid 334 Consensus residue: P Observed residues:  A    2   I    1   L  105   P 1272   Q   99   S    1   V    7   
+Resid 335 Consensus residue: X Observed residues:  D   99   E  890   K    2   N  379   R  115   S    1   
+Resid 336 Consensus residue: G Observed residues:  A    1   G 1487   
+Resid 337 Consensus residue: X Observed residues:  I  891   L  482   P  115   
+Resid 338 Consensus residue: I Observed residues:  I 1196   L    1   M    1   V  289   
+Resid 339 Consensus residue: X Observed residues:  A  595   P  891   V    2   
+Resid 340 Consensus residue: X Observed residues:  A  523   P    1   Q  381   R    1   S  395   T  187   
+Resid 341 Consensus residue: X Observed residues:  F  317   I    1   L  823   M  347   
+Resid 342 Consensus residue: X Observed residues:  C    1   F  889   H    1   Y  597   
+Resid 343 Consensus residue: X Observed residues:  A    3   D    1   E  816   G  309   H    1   L    1   Q  255   R  101   S    1   
+Resid 344 Consensus residue: P Observed residues:  P 1488   
+Resid 345 Consensus residue: E Observed residues:  E 1488   
+Resid 346 Consensus residue: R Observed residues:  A  100   Q  115   R 1273   
+Resid 347 Consensus residue: E Observed residues:  D  259   E 1202   G   11   K    3   M    9   Q    2   
+Resid 348 Consensus residue: K Observed residues:  K 1481   N    1   R    5   
+Resid 349 Consensus residue: X Observed residues:  A  115   I    5   M  114   N    3   S  521   T   75   V  653   
+Resid 350 Consensus residue: X Observed residues:  A  620   C    4   D  296   E    1   F  138   H    1   L    7   P  108   Q   72   S    4   T    2   Y  234   
+Resid 351 Consensus residue: X Observed residues:  A  987   E  115   G    2   P    1   S    2   T  380   
+Resid 352 Consensus residue: X Observed residues:  I  969   L    1   M  382   T    2   V  133   
+Resid 353 Consensus residue: D Observed residues:  A  116   D 1270   E  101   V    1   
+Resid 354 Consensus residue: G Observed residues:  G 1487   R    1   
+Resid 355 Consensus residue: E Observed residues:  E 1371   G    1   H  114   Y    1   
+Resid 356 Consensus residue: Y Observed residues:  C    1   F  299   S    3   Y 1185   
+Resid 357 Consensus residue: R Observed residues:  G    1   K  103   R 1383   S    1   
+Resid 358 Consensus residue: L Observed residues:  L 1487   P    1   
+Resid 359 Consensus residue: R Observed residues:  A    1   G    1   I    1   K  215   N    9   P    3   R 1155   T  103   
+Resid 360 Consensus residue: G Observed residues:  E  115   G 1273   T   99   
+Resid 361 Consensus residue: E Observed residues:  D    2   E 1483   Q    1   
+Resid 362 Consensus residue: X Observed residues:  A  598   E  382   K  115   P    3   Q  171   S  217   T    1   
+Resid 363 Consensus residue: R Observed residues:  K   82   R 1405   
+Resid 364 Consensus residue: K Observed residues:  E    1   K 1482   M    1   R    1   T    2   
+Resid 365 Consensus residue: X Observed residues:  H  115   N  343   S    1   T 1028   
+Resid 366 Consensus residue: F Observed residues:  F 1484   L    2   Y    1   
+Resid 367 Consensus residue: X Observed residues:  G    1   L  362   R  115   V 1009   
+Resid 368 Consensus residue: E Observed residues:  D  291   E 1080   H  114   Y    1   
+Resid 369 Consensus residue: L Observed residues:  F   22   L 1465   
+Resid 370 Consensus residue: X Observed residues:  I    7   L  459   M 1019   V    1   
+Resid 371 Consensus residue: R Observed residues:  A    2   K  118   R 1254   T  113   
+Resid 372 Consensus residue: X Observed residues:  A    1   G    1   H   98   M    1   N   30   Q   11   R  989   T  356   
+Resid 373 Consensus residue: X Observed residues:  A  358   C  115   G 1014   
+Resid 374 Consensus residue: D Observed residues:  A    1   D 1484   H    1   P    1   
+Resid 375 Consensus residue: L Observed residues:  F  115   I    1   L 1370   M    1   
+Resid 376 Consensus residue: P Observed residues:  P 1370   Q    1   T  116   
+Resid 377 Consensus residue: V Observed residues:  G    1   P  115   V 1371   
+Resid 378 Consensus residue: W Observed residues:  R    1   S    1   W 1482   Y    1   
+Resid 379 Consensus residue: L Observed residues:  L 1486   
+Resid 380 Consensus residue: A Observed residues:  A 1104   G    1   S  381   
+Resid 381 Consensus residue: Y Observed residues:  F    2   H  217   W  115   Y 1152   
+Resid 382 Consensus residue: K Observed residues:  E    1   H  115   K 1155   Q  103   R  112   
+Resid 383 Consensus residue: V Observed residues:  A    3   G    2   V 1480   W    1   
+Resid 384 Consensus residue: A Observed residues:  A 1481   D    1   P    2   S    1   T    1   
+Resid 385 Consensus residue: X Observed residues:  A  616   E    1   G    1   P    2   S  856   T    9   V    1   
+Resid 386 Consensus residue: X Observed residues:  A  406   E  818   G    1   K    1   N  257   S    3   
+Resid 387 Consensus residue: G Observed residues:  G 1371   T   15   V  100   
+Resid 388 Consensus residue: X Observed residues:  A    5   F  301   H   12   I  828   L    1   M    1   P    2   S  105   T    4   V  212   Y   15   
+Resid 389 Consensus residue: X Observed residues:  A    2   C    6   E    1   G    1   I    2   K  213   L    2   N  303   P    2   Q  429   S  427   T   98   
+Resid 390 Consensus residue: Y Observed residues:  A    1   V  114   Y 1371   
+Resid 391 Consensus residue: X Observed residues:  A  292   E    1   H  232   K   69   L    9   M    1   N    7   P    2   Q   24   R    2   S  302   T  540   V    2   Y    2   
+Resid 392 Consensus residue: D Observed residues:  D 1412   N    2   S   72   
+Resid 393 Consensus residue: R Observed residues:  R 1485   S    1   
+Resid 394 Consensus residue: X Observed residues:  D    1   E   71   I    1   K  436   N   62   R  843   S   71   
+Resid 395 Consensus residue: W Observed residues:  L    1   W 1484   
+Resid 396 Consensus residue: C Observed residues:  C 1366   R    1   T  115   W    1   Y    1   
+Resid 397 Consensus residue: F Observed residues:  F 1368   L    1   V    1   W  115   
+Resid 398 Consensus residue: D Observed residues:  A    2   D 1268   E  108   G    1   Q    9   T   96   V    1   
+Resid 399 Consensus residue: G Observed residues:  G 1484   R    1   
+Resid 400 Consensus residue: X Observed residues:  A    2   E  501   I  210   M    3   P  472   Q  114   S    1   T  109   V   69   
+Resid 401 Consensus residue: X Observed residues:  D    3   E  112   I    1   K  264   Q    2   R  982   T  121   
+Resid 402 Consensus residue: X Observed residues:  A   23   E   83   G    9   I    2   K    1   N 1010   S   40   T  316   V    1   
+Resid 403 Consensus residue: N Observed residues:  D    1   N 1482   S    2   
+Resid 404 Consensus residue: X Observed residues:  A  151   I   35   M    1   Q  890   R    1   T  403   V    5   
+Resid 405 Consensus residue: I Observed residues:  F    1   I 1072   L    1   V  412   
+Resid 406 Consensus residue: L Observed residues:  D  115   L 1295   M   76   
+Resid 407 Consensus residue: E Observed residues:  E 1469   G   15   L    1   Q    1   
+Resid 408 Consensus residue: X Observed residues:  A  107   D  478   E  892   K    1   N    2   P    6   
+Resid 409 Consensus residue: N Observed residues:  D   12   G    3   N 1340   S  130   T    1   
+Resid 410 Consensus residue: X Observed residues:  G  115   I    8   K    1   L    1   M  634   N  293   T   86   V  348   
+Resid 411 Consensus residue: X Observed residues:  A    1   D  626   E  756   G    2   P   99   Q    2   
+Resid 412 Consensus residue: V Observed residues:  A   98   E    1   I    3   V 1384   
+Resid 413 Consensus residue: E Observed residues:  E 1369   Q    1   R    9   T  106   
+Resid 414 Consensus residue: X Observed residues:  F  115   I 1006   M    1   V  363   
+Resid 415 Consensus residue: X Observed residues:  F   23   I  236   K   11   M    1   R  104   T    4   V  116   W  989   Y    1   
+Resid 416 Consensus residue: T Observed residues:  M    1   P    7   S  106   T 1371   
+Resid 417 Consensus residue: K Observed residues:  E    2   K 1086   P  115   R  281   S    1   
+Resid 418 Consensus residue: X Observed residues:  C    1   E  888   F    1   G   11   H   65   I    6   L  229   M   84   N  106   R    1   T   59   V    2   Y   32   
+Resid 419 Consensus residue: G Observed residues:  G 1484   R    1   
+Resid 420 Consensus residue: E Observed residues:  A  106   D   27   E 1341   K    1   S   10   
+Resid 421 Consensus residue: R Observed residues:  E  115   G    2   K  303   R 1060   T    1   
+Resid 422 Consensus residue: K Observed residues:  E    2   I    1   K 1258   R  224   
+Resid 423 Consensus residue: X Observed residues:  E    2   I  336   K  890   M   33   N    5   Q    1   T  103   V  116   
+Resid 424 Consensus residue: L Observed residues:  C    1   I    1   L 1483   W    1   
+Resid 425 Consensus residue: X Observed residues:  D    1   K  527   L    1   Q    9   R  948   
+Resid 426 Consensus residue: P Observed residues:  H    1   P 1484   S    1   T    1   
+Resid 427 Consensus residue: R Observed residues:  C    1   I    3   K   80   R 1289   S    1   V  112   W    1   
+Resid 428 Consensus residue: W Observed residues:  C    1   W 1486   
+Resid 429 Consensus residue: X Observed residues:  A   23   I  201   K   32   L 1012   M  124   P    1   R   83   T    7   V    4   
+Resid 430 Consensus residue: D Observed residues:  D 1482   E    1   G    3   Y    1   
+Resid 431 Consensus residue: A Observed residues:  A 1468   C    9   I    1   P    1   S    7   
+Resid 432 Consensus residue: R Observed residues:  E    1   K    2   R 1483   
+Resid 433 Consensus residue: X Observed residues:  I  283   K    2   M  114   Q    1   T  532   V  555   
+Resid 434 Consensus residue: Y Observed residues:  C  124   F  114   I    1   Y 1248   
+Resid 435 Consensus residue: S Observed residues:  A  185   C   24   K   19   L    1   R   96   S 1162   
+Resid 436 Consensus residue: D Observed residues:  D 1369   E  116   N    2   
+Resid 437 Consensus residue: X Observed residues:  G  115   H  457   P  891   Y   24   
+Resid 438 Consensus residue: X Observed residues:  A  100   H    1   I    1   L  813   M   63   Q  385   R  115   V    9   
+Resid 439 Consensus residue: A Observed residues:  A 1326   D  115   G    1   S   41   T    3   
+Resid 440 Consensus residue: L Observed residues:  I  100   L 1371   M    1   P    1   V   14   
+Resid 441 Consensus residue: K Observed residues:  -    1   A    6   G    2   K 1096   Q    1   R  381   
+Resid 442 Consensus residue: X Observed residues:  -    1   A  197   D   89   E  913   G    2   L    3   N    1   S  157   V    1   W  123   
+Resid 443 Consensus residue: F Observed residues:  -    1   F 1483   K    1   L    1   Y    1   
+Resid 444 Consensus residue: K Observed residues:  I   19   K 1372   L    3   V   93   
+Resid 445 Consensus residue: X Observed residues:  A   97   D  554   E  817   G    1   L    9   Q    6   S    2   V    1   
+Resid 446 Consensus residue: F Observed residues:  F 1372   Y  115   
+Resid 447 Consensus residue: A Observed residues:  A 1480   G    2   P    2   S    1   V    1   
+Resid 448 Consensus residue: A Observed residues:  A 1063   P    2   S  420   T    1   
+Resid 449 Consensus residue: G Observed residues:  A    1   G 1484   K    1   
+Resid 450 Consensus residue: X Observed residues:  K  475   R 1009   
+Resid 451 Consensus residue: X Observed residues:  I    1   K  588   R  895   
