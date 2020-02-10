@@ -27,25 +27,24 @@ with open(alignment_file,'r') as handle:
         for record in SeqIO.parse(handle,"fasta"):
                 nSequences += 1
 
-print nSequences
 #sys.exit()
 
 alignment_results = AlignIO.read(alignment_file,'fasta')
 alignment_array = np.array([list(rec) for rec in alignment_results],np.character)
 nSequences = len(alignment_results)
-nSequences_range = range(nSequences)
+nSequences_range = list(range(nSequences))
 print nSequences
 #sys.exit()
 
 alignment_summary_info = AlignInfo.SummaryInfo(alignment_results)
 consensus = alignment_summary_info.dumb_consensus()
 nResidues = len(consensus)
-nResidues_range = range(nResidues)
+nResidues_range = list(range(nResidues))
 
 position_frequency_matrix = alignment_summary_info.pos_specific_score_matrix(consensus,chars_to_ignore = ['X','B','Z'])
 
 nResidue_types = len(list(position_frequency_matrix[0]))
-nResidue_types_range = range(nResidue_types)
+nResidue_types_range = list(range(nResidue_types))
 nResidue_types_keys = np.array(sorted(list(position_frequency_matrix[0])))
 
 #print nResidue_types_keys
@@ -115,7 +114,7 @@ for res1 in nResidues_range[:-1]:
 				if p_ij[i][j] > 0.:
 					M_ij[res1][res2] += p_ij[i][j]*np.log2(p_ij[i][j]/(ppm[res1][i]*ppm[res2][j]))
 	        M_ij[res2][res1] = M_ij[res1][res2]
-        print 'Finished calculating mutual information for residue position ', res1
+        print('Finished calculating mutual information for residue position ', res1)
 
 np.savetxt(output_file_name_root+'.mutual_info.dat',M_ij,fmt='%f')
 
